@@ -1,7 +1,7 @@
 ---
 name: HUX
 about: Plantilla para crear una historia de usuario
-title: H## HistoriaDeUsuario
+title: H##
 labels: ''
 assignees: ''
 
